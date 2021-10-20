@@ -1,0 +1,6 @@
+.product__preview-image {
+  margin: 70px 70px 0;
+  width: 70vw;
+  max-width: 1050px;
+  min-width: 750px;
+}

@@ -1,0 +1,6 @@
+.product__preview {
+  margin: 0 auto 250px;
+  width: 70vw;
+  max-width: 1050px;
+  min-width: 800px;
+}

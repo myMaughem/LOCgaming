@@ -1,0 +1,6 @@
+.header__slider-line {
+  display: flex;
+  position: relative;
+  left: 0;
+  transition: opacity 1s ease-in-out;
+}

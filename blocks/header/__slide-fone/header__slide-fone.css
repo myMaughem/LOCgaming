@@ -1,0 +1,13 @@
+.header__slide-fone {
+  max-width: 310px;
+  max-height: 285px;
+  margin: auto;
+  visibility: hidden;
+  position: absolute;
+}
+@media (min-width: 1500px) {
+  .header__slide-fone {
+    visibility: visible;
+    position: relative;
+  }
+}

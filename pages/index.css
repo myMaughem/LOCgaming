@@ -1,0 +1,27 @@
+@import url(../vendor/normalize.css);
+
+@import url(../vendor/fonts.css);
+
+@import url(../blocks/body/body.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__slide/header__slide.css);
+@import url(../blocks/header/__slide-block/header__slide-block.css);
+@import url(../blocks/header/__slide-fone/header__slide-fone.css);
+@import url(../blocks/header/__slide-fone/_left/header__slide-fone_left.css);
+@import url(../blocks/header/__slide-fone/_right/header__slide-fone_right.css);
+@import url(../blocks/header/__slider/header__slider.css);
+@import url(../blocks/header/__slider-blocks/header__slider-blocks.css);
+@import url(../blocks/header/__slider-line/header__slider-line.css);
+
+@import url(../blocks/product/product.css);
+@import url(../blocks/product/__preview/product__preview.css);
+@import url(../blocks/product/__preview-image/product__preview-image.css);
+@import url(../blocks/product/__preview-subtitle/product__preview-subtitle.css);
+@import url(../blocks/product/__preview-text/product__preview-text.css);
+@import url(../blocks/product/__preview-text/_left/product__preview-text_left.css);
+@import url(../blocks/product/__preview-text/_right/product__preview-text_right.css);
+@import url(../blocks/product/__preview-title/product__preview-title.css);
+@import url(../blocks/product/__title/product__title.css);
+@import url(../blocks/product/__title-line-image/product__title-line-image.css);
+@import url(../blocks/product/__title-text/product__title-text.css);

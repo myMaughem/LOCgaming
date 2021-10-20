@@ -1,0 +1,6 @@
+.product__title-line-image {
+  margin: 0 auto 200px;
+  height: 2px;
+  width: 176px;
+  background: linear-gradient(45deg, #86f7558c, #f93d3ddb);
+}

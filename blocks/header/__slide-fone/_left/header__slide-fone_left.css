@@ -1,0 +1,3 @@
+.header__slide-fone_left {
+  transform: perspective(500px) rotateY(58deg);
+}

@@ -1,0 +1,5 @@
+.header__slider-blocks {
+  display: inline-flex;
+  left: 0;
+  transition: all ease 1s;
+}
