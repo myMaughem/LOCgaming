@@ -5,7 +5,9 @@
 @import url(../blocks/body/body.css);
 
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__slide/header__slide.css);
+@import url(../blocks/header/header_all.css);
+
+/* @import url(../blocks/header/__slide/header__slide.css);
 @import url(../blocks/header/__slide-block/header__slide-block.css);
 @import url(../blocks/header/__slide-fone/header__slide-fone.css);
 @import url(../blocks/header/__slide-fone/_left/header__slide-fone_left.css);
@@ -24,4 +26,4 @@
 @import url(../blocks/product/__preview-title/product__preview-title.css);
 @import url(../blocks/product/__title/product__title.css);
 @import url(../blocks/product/__title-line-image/product__title-line-image.css);
-@import url(../blocks/product/__title-text/product__title-text.css);
+@import url(../blocks/product/__title-text/product__title-text.css); */
